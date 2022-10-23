@@ -7,13 +7,13 @@
 - タスクのカテゴリー登録・編集
 
 ## Requirement
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/ja/)
-- [Node.js](https://nodejs.org/ja/)
-- [Prisma](https://www.prisma.io/)
-- [MySQL](https://www.mysql.com/jp/)
-- [Docker](https://www.docker.com/)
+- [Next.js](https://nextjs.org/): 12.2.5
+- [TypeScript](https://www.typescriptlang.org/): 4.7.4
+- [Express](https://expressjs.com/ja/): 4.16.4
+- [Node.js](https://nodejs.org/ja/): 16.16.0
+- [Prisma](https://www.prisma.io/): 4.2.1
+- [MySQL](https://www.mysql.com/jp/): 8.0
+- [Docker](https://www.docker.com/): 20.10.17
 
 ## Getting Started
 1.Clone this repository
